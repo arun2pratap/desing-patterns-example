@@ -1,0 +1,3 @@
+------Design Principle 1-----
+Identify the aspect of your code that varies and seperate them from what remain same.
+---------------
