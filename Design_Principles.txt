@@ -1,3 +1,9 @@
+============Strategy Pattern=================
 ------Design Principle 1-----
 Identify the aspect of your code that varies and seperate them from what remain same.
 ---------------
+------Design Principle 2--------
+Program to interface, not to implementation.
+------Design Principle 3--------
+Favour composition over inheritance. if you have a choice.
+=============================================
