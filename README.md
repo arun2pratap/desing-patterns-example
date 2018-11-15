@@ -11,3 +11,5 @@ Design Pattern examples.
 7. Iterator Pattern [map reduce example]
 8. State Pattern
     a. Gum Ball machine example.
+    
+9. Builder Pattern.
