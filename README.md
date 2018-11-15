@@ -14,8 +14,10 @@ Design Pattern examples.
     a. Gum Ball machine example.
     
 9. Builder Pattern.
-10. Chain of Reponsibility.
+10. Chain of Responsibility.
 
     10.1 Example using Decorator pattern style.
     
     10.2 Same Example using Enum and lamda.
+
+11. FlyWeight - Immutable objects.
