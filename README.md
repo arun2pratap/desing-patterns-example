@@ -20,4 +20,5 @@ Design Pattern examples.
     
     10.2 Same Example using Enum and lamda.
 
-11. FlyWeight - Immutable objects.
+11. FlyWeight - Immutable objects. with cache implementation.
+12. Interpreter Design Pattern.
